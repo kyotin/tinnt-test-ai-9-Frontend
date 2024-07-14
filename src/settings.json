@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Fostering strong, supportive networks for a more connected world.",
+        "title": "Building Bridges, Connecting Communities"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Fostering strong, supportive networks for a more connected world.",
+        "title": "Building Bridges, Connecting Communities"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Fostering strong, supportive networks for a more connected world.",
+        "title": "Building Bridges, Connecting Communities"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Fostering strong, supportive networks for a more connected world.",
+        "title": "Building Bridges, Connecting Communities"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Fostering strong, supportive networks for a more connected world.",
+        "title": "Building Bridges, Connecting Communities"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Fostering strong, supportive networks for a more connected world.",
+        "title": "Building Bridges, Connecting Communities"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Fostering strong, supportive networks for a more connected world.",
+        "title": "Building Bridges, Connecting Communities"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Fostering strong, supportive networks for a more connected world.",
+        "title": "Building Bridges, Connecting Communities"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Fostering strong, supportive networks for a more connected world.",
+        "title": "Building Bridges, Connecting Communities"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Building Bridges, Connecting Communities",
+  "subtitle": "Fostering strong, supportive networks for a more connected world."
+}
